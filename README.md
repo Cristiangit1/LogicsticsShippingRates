@@ -17,3 +17,8 @@ All contributions undergo a code review process.
 
 Licensing:
 Contributions are licensed.
+
+
+
+All suggestions are welcome
+
